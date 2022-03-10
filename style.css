@@ -415,6 +415,10 @@ footer #input-mail{
     .bottom{
         font-size: 30px;
     }
+    .designs .subtitulo{
+        margin-bottom: 10px;
+    }
+    .cont-medio input,
     .footer input{
         padding: 10px;
         font-size: 14px;
