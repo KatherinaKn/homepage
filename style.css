@@ -353,15 +353,16 @@ footer #input-mail{
     }
         
     .cont-top{
-        margin: 20px 40px;
+        margin: 30px 40px;
         max-width: 100%;
     }
     .cont-photo{
-        margin: 20px 15px;
+        margin: 30px 15px;
     }
     .cont-medio,
     .contenedor{
-        margin: 30px 40px;
+        border-top: .1px solid #fff;
+        margin: 40px;
         max-width: 100vw;
     }
     .cont-photo img{
