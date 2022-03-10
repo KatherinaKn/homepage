@@ -404,6 +404,8 @@ footer #input-mail{
     .footer{
         padding: 20px 40px;
     }
+    .designs{
+        margin: 40px 40px 70px 40px;
 }
 
 @media screen and (max-width: 500px){
