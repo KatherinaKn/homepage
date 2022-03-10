@@ -415,8 +415,12 @@ footer #input-mail{
     .bottom{
         font-size: 30px;
     }
+    .team .subtitulo,
     .designs .subtitulo{
         margin-bottom: 10px;
+    }
+    .meet{
+        margin: 20px 0 10px 0;
     }
     .cont-medio input,
     .footer input{
