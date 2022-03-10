@@ -303,8 +303,9 @@ footer{
     cursor: pointer;
 }
 .created{
-    padding-top: 50px;
-    padding-bottom: 20px;
+    width: 100%;
+    margin-top: 70px;
+    text-align: center;
     font-size: 14px;
     font-weight: 200;
 }
